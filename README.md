@@ -1,5 +1,12 @@
-# 💫 About Me:
-I’m an aspiring Software Developer and Computer Science Engineering graduate, with a strong foundation in Java, JavaScript, React, and web development. I enjoy building responsive, user-focused applications and continuously expanding my backend skills. Currently, I’m working on a Crypto Scanner (Crypto Screener) web application using React.js and the CoinGecko API, implementing features such as real-time market tracking, search, sorting, pagination, currency conversion, and interactive data visualization. I have also developed projects like an Employee Management System and an Electricity Billing System, which strengthened my understanding of frontend architecture, state management, and core Java concepts. Alongside frontend development, I am actively learning Spring Boot to build scalable RESTful backend services. I’ve completed a Java Programming Internship at CodSoft and virtual programs from Accenture and Google, gaining hands-on exposure to real-world development practices. I’m currently seeking Software Developer Intern or Junior Developer opportunities where I can contribute effectively and grow in a production environment.
+#💫 About Me:
+
+I’m an aspiring Software Developer and Computer Science Engineering graduate with 7 months of hands-on experience in software development. I have a strong foundation in Java, JavaScript, React.js, and web development, and I enjoy building responsive, user-focused applications.
+
+I have successfully developed projects like a Crypto Scanner (Crypto Screener) Web Application using React.js and the CoinGecko API, implementing features such as real-time market tracking, search, sorting, pagination, currency conversion, and interactive data visualization. I have also built applications like an Employee Management System and an Electricity Billing System, which strengthened my understanding of frontend architecture, state management, and core Java concepts.
+
+Along with frontend development, I am actively learning Spring Boot to build scalable and secure RESTful backend services. I have completed a Java Programming Internship at CodSoft and virtual programs from Accenture and Google, gaining exposure to real-world development practices and industry workflows.
+
+Currently, I’m seeking Software Developer Intern / Junior Developer opportunities where I can contribute my skills and grow in a production environment.
 
 
 ## 🌐 Socials:
