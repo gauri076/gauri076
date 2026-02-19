@@ -1,13 +1,14 @@
 #💫 About Me:
 
-I’m an aspiring Software Developer and Computer Science Engineering graduate with 7 months of hands-on experience in software development. I have a strong foundation in Java, JavaScript, React.js, and web development, and I enjoy building responsive, user-focused applications.
+I’m an aspiring Software Developer and Computer Science Engineering graduate with 7 months of hands-on experience in software development. I have a strong foundation in Java, JavaScript, React.js, and web development, and I enjoy building responsive and user-focused applications.
 
-I have successfully developed projects like a Crypto Scanner (Crypto Screener) Web Application using React.js and the CoinGecko API, implementing features such as real-time market tracking, search, sorting, pagination, currency conversion, and interactive data visualization. I have also built applications like an Employee Management System and an Electricity Billing System, which strengthened my understanding of frontend architecture, state management, and core Java concepts.
+I have worked on developing responsive web applications using React.js, JavaScript, HTML, and CSS, and have experience in building reusable UI components and integrating REST APIs.
 
-Along with frontend development, I am actively learning Spring Boot to build scalable and secure RESTful backend services. I have completed a Java Programming Internship at CodSoft and virtual programs from Accenture and Google, gaining exposure to real-world development practices and industry workflows.
+I have built projects like a Crypto Screener Web App, CA Directory Web Application, Employee Management System, and an Electricity Billing System, which helped me strengthen my understanding of frontend architecture, state management, and core programming concepts.
+
+Alongside frontend development, I am currently learning backend technologies like Node.js, Express.js, MongoDB, and building RESTful APIs to enhance my full-stack development skills. I have also completed a Java Programming Internship at CodSoft and virtual programs from Accenture and Google, gaining exposure to real-world development practices.
 
 Currently, I’m seeking Software Developer Intern / Junior Developer opportunities where I can contribute my skills and grow in a production environment.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurirathor2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathorgauri281@gmail.com) 
